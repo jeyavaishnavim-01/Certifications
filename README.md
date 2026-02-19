@@ -4,13 +4,12 @@ Welcome to my certification portfolio repository.
 This repository contains all my verified certifications in Cloud, Data Engineering, AI, and Analytics.
 
 **Core Skills Validated**
-
-Cloud Computing (Google Cloud, Azure)
-Data Engineering (Databricks, DBT)
-SQL & Data Warehousing
-Generative AI
-Data Analytics & Visualization (Power BI)
-Data Modeling & Transformation
+#Cloud Computing (Google Cloud, Azure)
+#Data Engineering (Databricks, DBT)
+#SQL & Data Warehousing
+#Generative AI
+#Data Analytics & Visualization (Power BI)
+#Data Modeling & Transformation
 
 **Google Cloud Certifications**
 
